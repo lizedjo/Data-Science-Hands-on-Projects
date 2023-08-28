@@ -1,8 +1,8 @@
-# Data-Science-Hands-on-Projects
+# Data-Science-Hands-on-Project
 
 Greetings to my repository presenting a predictive analysis of the successful landing likelihood of the Space X Falcon 9 first stage. This project was undertaken as part of my Data Science Specialization course. Each project explores different aspects of data analysis, visualization, and machine learning.
 
-## Projects
+## Notebooks
 
 ### EDA with Data Visualization
 
