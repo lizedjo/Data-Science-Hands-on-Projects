@@ -1,6 +1,6 @@
 # Data-Science-Hands-on-Project
 
-This repository is presenting a predictive analysis of the successful landing likelihood of the Space X Falcon 9 first stage. This capstone project was undertaken as part of my IBM Data Science Specialization course.
+This repository is presenting a predictive analysis of the successful landing likelihood of the Space X Falcon 9 first stage. This capstone project was undertaken as part of my IBM Applied Data Science Specialization course.
 
 ## Notebooks
 
